@@ -13,7 +13,7 @@ body{
     position: relative;
     width: 100%;
     height: 100vh;
-    background-image: url('ima/bgimage.avif');
+    background-image: url('../images/bgimage.avif');
     background-size: cover;
     background-position: center;
     display: flex;
